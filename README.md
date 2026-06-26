@@ -1,14 +1,13 @@
-<div align="center">
+﻿<div align="center">
 
-# 🚀 Portfilio
+# Portfolio Practice Site
 
-**Portfilio — professional open source project.**
+**Portfolio website practice project for experimenting with personal branding, responsive page sections, and GitHub-hosted static pages.**
 
-Documented · MIT licensed · Maintained
+HTML, CSS, portfolio, GitHub Pages
 
-![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-22c55e?style=for-the-badge)](https://github.com/mafzalkalwardev/portfilio)
 
 </div>
 
@@ -18,17 +17,27 @@ Documented · MIT licensed · Maintained
 
 ![Application screenshot](docs/screenshots/app.png)
 
+## Overview
 
-## 🐍 Contribution graph
+Portfolio website practice project for experimenting with personal branding, responsive page sections, and GitHub-hosted static pages.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/portfilio/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/portfilio/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/portfilio/output/snake.svg" />
-</picture>
+## Highlights
 
----
+- Clean repository documentation with a project-specific summary.
+- Screenshot section when captured portfolio media is available.
+- Search-friendly tags for portfolio and GitHub discovery.
+- Maintained by [Muhammad Afzal Kalwar](https://github.com/mafzalkalwardev).
 
-## 🚀 Quick start
+## Quick Start
 
-Clone the repository and follow project-specific setup in docs.
+Clone the repository and review the source files for setup or usage details:
+
+``bash
+git clone https://github.com/mafzalkalwardev/portfilio.git
+cd portfilio
+``
+
+## Author
+
+Muhammad Afzal Kalwar - Full-Stack Developer and Python Automation Engineer  
+Portfolio: https://mafzalkalwardev.github.io
